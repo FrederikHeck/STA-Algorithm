@@ -1,3 +1,5 @@
+//credits: this file is provided by H.T.Lau in the "Java Library of Graph Algorithms and Optimization"
+
 import java.lang.Math.*;
 import java.util.Random;
 
